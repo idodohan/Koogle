@@ -1,5 +1,3 @@
-from typing import List
-
 import koogle
 
 engine = koogle.Koogle()
